@@ -20,7 +20,7 @@ Avec un taux d'échantillonnage de 15 minutes, il fonctionne plus de cinq mois a
 
 Coût
 ====
-
+Le coût est donné pour les composants que j'utilise. Ils sont indicatifs et peuvent varier en fonction du fournisseur.
 
 .. list-table:: 
   :header-rows: 1
