@@ -16,7 +16,7 @@ NanoLogW est un datalogger autonome fonctionnant sur piles AA/AAA. Ses propriét
 Tous les composants sont soudés sur une carte PCB conçue avec Fritzing.
 L'enregistreur est facile à construire (il fait partie d'un cours d'étudiant de premier cycle), facile à utiliser (il suffit de retirer la carte SD de temps en temps pour charger les données qui sont écrites sur un fichier texte ascii), et est indépendant de tout réseau et logiciel propriétaire.
 
-Avec un taux d'échantillonnage de 15 minutes, il fonctionne plus de cinq mois avec 3 piles AAA ou 11 mois avec 3 piles AA. Il est destiné à être déployé dans des endroits où la connexion est absente de l'ectique.
+Avec un taux d'échantillonnage de 15 minutes, il fonctionne plus de cinq mois avec 3 piles AAA ou 11 mois avec 3 piles AA. Il est destiné à être déployé dans des endroits où la connexion est absente ou hasardeuse.
 
 Coût
 ====
@@ -56,12 +56,25 @@ Liens
 Images
 ======
 
-
-.. figure:: figures/NanoLoggerBME680_bb.svg
-	:width: 600 px
+Dispositif avec Piles AA
+-------------------------
+.. figure:: figures/LoggerMeteo.png
+	:width: 800 px
 	:alt: breadboard
 
+Breadboard 
+----------
+
+Le lecteur de carte est figuré par les emplacements des headers. Idem pour le BME680. Le BME est vissé. 
+Sa connection se fait en soudant les quatres fils de la connexion I2C ce qui permet, si d'aventure le captuer lache, de le changer facilement.
+
+.. figure:: figures/NanoLoggerBME680_bb.svg
+	:width: 800 px
+	:alt: breadboard
+
+Fritzing
+--------
 
 .. figure:: figures/NanoLoggerBME680_circuit_imprime.svg
-	:width: 600 px
+	:width: 800 px
 	:alt: pcb
