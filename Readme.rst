@@ -1,5 +1,5 @@
 ===============================================================
-NanoLogW : Un Data logger autonome contrôlé par un Arduino Nano
+LoggerMeteo: Un Data logger autonome contrôlé par un Arduino Nano
 ===============================================================
 
 Principe
