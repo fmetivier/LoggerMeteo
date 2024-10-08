@@ -26,7 +26,7 @@ Le coût est donné pour les composants que j'utilise. Ils sont indicatifs et pe
   :header-rows: 1
 
   * - Composant
-    - Prix (€ VAT Included)
+    - Prix (€ TTC)
   * - Arduino Nano
     - 25.90
   * - DS1307 RTC Clock (Ada 3296)
