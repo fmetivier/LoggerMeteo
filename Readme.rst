@@ -50,7 +50,7 @@ Liens
 =====
 
 * https://morpho.ipgp.fr/metivier/public/ScEd/build/html/Datalogger.html
-* https://morpho.ipgp.fr/metivier/public/Howto/build/html/Arduino.html#
+* https://morpho.ipgp.fr/metivier/public/Howto/build/html/Arduino.html
 
 
 Images
