@@ -56,7 +56,7 @@ Liens
 Images
 ======
 
-Dispositif avec Piles AA
+Dispositif avec Piles AAA
 -------------------------
 .. figure:: figures/LoggerMeteo.png
 	:width: 800 px
@@ -66,7 +66,7 @@ Breadboard
 ----------
 
 Le lecteur de carte est figuré par les emplacements des headers. Idem pour le BME680. Le BME est vissé. 
-Sa connection se fait en soudant les quatres fils de la connexion I2C ce qui permet, si d'aventure le captuer lache, de le changer facilement.
+Sa connection se fait en soudant les quatres fils de la connexion I2C ce qui permet, si d'aventure le capteur lache, de le changer facilement.
 
 .. figure:: figures/NanoLoggerBME680_bb.svg
 	:width: 800 px
