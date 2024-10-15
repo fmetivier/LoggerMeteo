@@ -1,11 +1,11 @@
-===============================================================
-LoggerMeteo: Un Data logger autonome contrôlé par un Arduino Nano
-===============================================================
+=====================================================================
+LoggerMeteo: Une station météo autonome contrôlé par un Arduino Nano
+=====================================================================
 
 Principe
 =========
 
-NanoLogW est un datalogger autonome fonctionnant sur piles AA/AAA. Ses propriétés sont les suivantes
+LoggerMeteo est une station connectée à un datalogger autonome fonctionnant sur piles AA/AAA. Ses propriétés sont les suivantes
 
 * l'enregistreur est contrôlé par un Arduino Nano, modifié dans le but de réduire la consommation d'énergie, tout en gardant l'instrument simple à manipuler et à programmer ;
 * il enregistre la température, la pression, l'humidité et la teneur en gaz à l'aide d'un capteur Adafruit BME680 ;
