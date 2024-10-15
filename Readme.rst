@@ -43,8 +43,10 @@ Le coût est donné pour les composants que j'utilise. Ils sont indicatifs et pe
     - 2.0
   * - Abri TFA Dostmann
     - 14.00
+  * - Capteur ADA3660
+    - 26,4
   * - **Total**
-    - **75.4**
+    - **101,8**
 
 Liens
 =====
