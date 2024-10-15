@@ -18,6 +18,7 @@ L'enregistreur est facile à construire (il fait partie d'un cours d'étudiant d
 
 Avec un taux d'échantillonnage de 15 minutes, il fonctionne plus de cinq mois avec 3 piles AAA ou 11 mois avec 3 piles AA. Il est destiné à être déployé dans des endroits où la connexion est absente ou hasardeuse.
 
+
 Coût
 ====
 Le coût est donné pour les composants que j'utilise. Ils sont indicatifs et peuvent varier en fonction du fournisseur.
