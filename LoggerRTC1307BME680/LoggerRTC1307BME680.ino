@@ -20,7 +20,7 @@ CC-By SA 4.0
 RTC_DS1307 rtc;
 
 const int pullupPin = 2; // reçoit le signal 1Hz du DS1307 
-const int DT=10; // interval de emsures (s)
+const int DT=900; // interval de emsures (s)
 volatile int jedors = 0; // compteur de réception du signal 1Hz
 
 /*
